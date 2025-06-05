@@ -1,4 +1,3 @@
-# Flights-Data-Exploration
 # ✈️ U.S. Flight Data Analysis with Python
 
 A personal project exploring real-world U.S. flight data using Python, Pandas, and Matplotlib.  
@@ -16,11 +15,10 @@ The goal: transform messy, raw data into meaningful insights and clear visualiza
 📊 **Data Exploration & Visualization**  
 • Analyzed flight delays by airline  
 • Identified peak travel months  
-• Explored flight volume trends over the year  
 • Visualized findings using Matplotlib
 
 🧠 **Skills Practiced**  
-• Data wrangling with Pandas  
+• Data analysis with Pandas  
 • Exploratory data analysis (EDA)  
 • Data visualization fundamentals  
 • Asking the right questions from the data
@@ -50,24 +48,21 @@ The dataset contains information on U.S. flights including:
 
 ## 📸 Sample Visualizations
 
-_(Screenshots or saved plots can go here once available)_  
-• Bar chart of delays per airline  
-• Line graph of monthly flight volume
+• Distribution of departure and arrival delays  
+<img width="830" alt="image" src="https://github.com/user-attachments/assets/ea429e90-1028-4894-aeab-5613707a799d" />
+
+• The flights that are delayed
+<img width="548" alt="image" src="https://github.com/user-attachments/assets/590eabf4-557e-430e-bcc0-8ab77f144a4f" />
+
 
 ---
 
 ## ✅ Outcome
 
 This project helped reinforce real-world data analysis skills:
-- Working with imperfect datasets
+- Working with the raw datasets
 - Uncovering patterns through EDA
 - Communicating insights visually
-
----
-
-## 🤝 Want to Collaborate?
-
-Feel free to fork this repo or open an issue if you'd like to improve, expand, or discuss any part of the project!
 
 ---
 
