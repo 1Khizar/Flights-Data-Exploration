@@ -49,9 +49,11 @@ The dataset contains information on U.S. flights including:
 ## 📸 Sample Visualizations
 
 • Distribution of departure and arrival delays  
+
 <img width="830" alt="image" src="https://github.com/user-attachments/assets/ea429e90-1028-4894-aeab-5613707a799d" />
 
 • The flights that are delayed
+
 <img width="548" alt="image" src="https://github.com/user-attachments/assets/590eabf4-557e-430e-bcc0-8ab77f144a4f" />
 
 
